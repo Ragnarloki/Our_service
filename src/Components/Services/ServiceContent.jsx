@@ -56,7 +56,7 @@ function ServiceContent() {
                         L&T Finance offers Personal loans, Two-Wheeler loans, Home loans, Rural Business loans, Farm loans, and SME loans. At L&T Finance, we are committed to providing customised financial solutions that meet the unique needs of our customers. With a focus on innovation and customer-centricity, we aim to be a trusted partner in our customers' financial journey.
                     </p>
                 </div>
-                <img src={whyUs} className='h-[400px] max-sm:h-[300px]'/>
+                <img src={collab} className='h-[400px] max-sm:h-[300px]'/>
             </div>
             
         </div>
